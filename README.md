@@ -120,8 +120,6 @@ These datasets were processed in streaming and batch modes with **backdated reco
 ---
 
 ## 📊 Screenshots
-
-> (Add images here: Databricks pipelines, notebook outputs, DBT DAGs, and schema diagrams.)
 <img width="1897" height="896" alt="Image" src="https://github.com/user-attachments/assets/ab9a164c-d2cb-4a23-ade1-9d23531e19fe" />
 <img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/3deb23b1-8ec0-454f-83fc-6326439664a1" />
 <img width="1918" height="906" alt="Image" src="https://github.com/user-attachments/assets/4f9a60d9-b3a9-4b66-a61a-99bc15a89f57" />
@@ -131,6 +129,11 @@ These datasets were processed in streaming and batch modes with **backdated reco
 <img width="1396" height="557" alt="Image" src="https://github.com/user-attachments/assets/7f1437d6-5cce-49a3-b299-802fc61cf702" />
 <img width="1917" height="726" alt="Image" src="https://github.com/user-attachments/assets/80406c63-72cf-48cf-82c3-1455b4a9f5ed" />
 <img width="1899" height="901" alt="Image" src="https://github.com/user-attachments/assets/98b8b9d8-fc39-43cf-9921-34135580f594" />
+<img width="1900" height="846" alt="Image" src="https://github.com/user-attachments/assets/2471dace-485c-4d20-8e3d-e38f17a79f7a" />
+<img width="1655" height="962" alt="Image" src="https://github.com/user-attachments/assets/42dd37be-6d1f-4771-be0c-b2e9a015ca96" />
+<img width="1654" height="967" alt="Image" src="https://github.com/user-attachments/assets/bd9b6b17-da83-4160-b8cc-c71291d80f45" />
+<img width="1628" height="988" alt="Image" src="https://github.com/user-attachments/assets/83bb4589-36a1-4419-859a-852f16ad5387" />
+<img width="1657" height="963" alt="Image" src="https://github.com/user-attachments/assets/d5d30424-cdb3-41bb-b61d-bef4d0a2ac23" />
 ---
 
 ## 🧭 How to Run (Coming Soon)
